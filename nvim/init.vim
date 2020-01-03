@@ -27,10 +27,8 @@ set expandtab
 set tabstop=2
 set shiftwidth=2
 
-set colorcolumn=80
-
 set mouse=a
-set updatetime=100
+set colorcolumn=80
 set completeopt-=preview
 
 map <F3>  :set hlsearch!  <CR>
