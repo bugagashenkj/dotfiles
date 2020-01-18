@@ -17,6 +17,7 @@ set background=dark
 
 set number
 set hidden
+set nowrap
 set hlsearch
 set incsearch
 set noswapfile
