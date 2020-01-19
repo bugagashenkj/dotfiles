@@ -11,6 +11,8 @@ Plug 'scrooloose/nerdtree', { 'on': 'NERDTreeToggle' }
 
 call plug#end()
 
+set nocompatible
+
 syntax on
 colorscheme gruvbox
 set background=dark
